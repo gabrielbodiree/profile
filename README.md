@@ -1,6 +1,7 @@
 🚀 IaC / DevOps / SRE / Automação
 
-         
+  ##
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Gabriel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
@@ -47,10 +48,8 @@
   <img align="center" alt="Gabriel-Bacula" height="30" width="40" src="http://victorroblesweb.es/wp-content/uploads/2013/11/bacula-logo.png">
   <img align="center" alt="Gabriel-BareOS" height="30" width="40" src="https://download.bareos.org/bareos.png">
   
-
 </div>
 
-  ##
   ##
  
 <div> 
