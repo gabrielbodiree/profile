@@ -44,7 +44,7 @@
   <img align="center" alt="Gabriel-Wazuh" height="30" width="40" src="https://wazuh.com/brand-assets/Wazuh-Logo-dark-bg.svg">
   <img align="center" alt="Gabriel-SecOnion" height="30" width="40" src="https://securityonionsolutions.com/logo/logo-so-onion-light.svg">
   <img align="center" alt="Gabriel-Nextcloud" height="30" width="40" src="https://www.svgrepo.com/download/349455/nextcloud.svg">
-  <img align="center" alt="Gabriel-Bacula" height="30" width="40" src="https://www.baculasystems.com/wp-content/themes/sc-Bacula/img/logo.svg">
+  <img align="center" alt="Gabriel-Bacula" height="30" width="40" src="http://victorroblesweb.es/wp-content/uploads/2013/11/bacula-logo.png">
   <img align="center" alt="Gabriel-BareOS" height="30" width="40" src="https://download.bareos.org/bareos.png">
   
 
